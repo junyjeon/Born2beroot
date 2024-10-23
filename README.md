@@ -9,6 +9,19 @@
 
 </div>
 
+## 📋 목차
+1. [프로젝트 소개](#-프로젝트-소개)
+2. [필수 요구사항](#-필수-요구사항)
+3. [평가 준비](#-평가-준비)
+4. [주요 개념](#-주요-개념)
+5. [구현 가이드](#-구현-가이드)
+6. [평가 체크리스트](#-평가-체크리스트)
+7. [트러블슈팅 가이드](#-트러블슈팅-가이드)
+8. [설치 가이드](#-설치-가이드)
+9. [유용한 팁](#-유용한-팁)
+10. [프로젝트 구조](#-프로젝트-구조)
+11. [참고 자료](#-참고-자료)
+
 ## 🎯 프로젝트 소개
 Born2beroot는 시스템 관리의 기초를 배우는 프로젝트입니다. 가상 머신을 설정하고, 엄격한 규칙에 따라 운영 체제를 구성하며, 다양한 서비스를 설정하는 과정을 통해 시스템 관리자의 역할을 이해합니다.
 
@@ -537,3 +550,10 @@ UUID=<uuid>                               /boot           ext4    defaults      
    - 로그 파일 확인이 첫 번째 단계
    - 설정 파일 문법 검증
    - 서비스 재시작 고려
+
+## 📚 참고 자료
+- [Debian 공식 문서](https://www.debian.org/doc/)
+- [VirtualBox 매뉴얼](https://www.virtualbox.org/manual/)
+- [SSH 보안 가이드](https://www.ssh.com/academy/ssh/protocol)
+- [UFW 설정 가이드](https://help.ubuntu.com/community/UFW)
+- [LVM 관리 가이드](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/logical_volume_manager_administration/index)
