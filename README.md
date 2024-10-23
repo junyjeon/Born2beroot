@@ -2,7 +2,7 @@
   <h1>Born2beroot</h1>
   <p>시스템 관리자가 되기 위한 첫 걸음</p>
 
-  [![42 Score](https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42)](https://github.com/your-username/Born2beroot)
+  [![42 Score](https://img.shields.io/badge/Score-110%2F100-success?style=for-the-badge&logo=42)](https://github.com/your-username/Born2beroot)
   [![Debian](https://img.shields.io/badge/Debian-11-red?style=for-the-badge&logo=debian)](https://www.debian.org/)
 
   <img src="assets/03_born2beroot_review.jpg" alt="Born2beroot Evaluation" width="800">
