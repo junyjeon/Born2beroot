@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Born2beroot</h1>
-  <p>시스템 관리자가 되기 위한 첫 걸음</p>
+  <p>42Seoul의 세 번째 프로젝트: 시스템 관리자가 되기 위한 첫 걸음</p>
 
   <img src="assets/03_born2beroot_review.jpg" alt="Born2beroot Evaluation" width="800">
 
