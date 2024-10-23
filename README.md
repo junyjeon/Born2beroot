@@ -5,7 +5,7 @@
   [![42 Score](https://img.shields.io/badge/Score-100%2F100-success?style=for-the-badge&logo=42)](https://github.com/your-username/Born2beroot)
   [![Debian](https://img.shields.io/badge/Debian-11-red?style=for-the-badge&logo=debian)](https://www.debian.org/)
 
-  <img src="assets/evaluation.png" alt="Born2beroot Evaluation" width="800">
+  <img src="assets/03_born2beroot_review.jpg" alt="Born2beroot Evaluation" width="800">
 </div>
 
 ## 🎯 프로젝트 소개
