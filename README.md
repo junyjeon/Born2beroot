@@ -4,9 +4,9 @@
 
   <img src="assets/03_born2beroot_review.jpg" alt="Born2beroot Evaluation" width="800">
 
-  [![42 Score](https://img.shields.io/badge/Score-110%2F100-success?style=for-the-badge&logo=42)](https://github.com/your-username/Born2beroot)
+  [![42 Score](https://img.shields.io/badge/Score-110%2F100-success?style=for-the-badge&logo=42)](https://github.com/junyjeon/Born2beroot)
   [![Debian](https://img.shields.io/badge/Debian-11-red?style=for-the-badge&logo=debian)](https://www.debian.org/)
-
+  [![Shell](https://img.shields.io/badge/Shell-Bash-blue?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 </div>
 
 ## 📋 목차
